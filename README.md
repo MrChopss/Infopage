@@ -1,5 +1,6 @@
 # Infopage
-Hi, I'm Chris [![LinkedIn](https://img.shields.io/badge/LinkedIn-Visit-blue?logo=linkedin)](https://www.linkedin.com/in/christopher-sarens-63993423a/)
+Hi, I'm Chris 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visit-blue?logo=linkedin)](https://www.linkedin.com/in/christopher-sarens-63993423a/)
 I'm currently a Senior Assistant General Manager at a nightclub, but I'm currently building towards a career in Cybersecurity!
 
 # Objective
