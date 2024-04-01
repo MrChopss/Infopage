@@ -10,7 +10,7 @@ I will be using this platform to display porjects I've completed to transition i
 
 # Skills and Experience
 My interest in computers started with an A-level in Computing during College. Since then I have served in physical security roles, such as Police Constable for Greater Manchester Police and then transitioning into Nightclub management.
-I have completed Google's Coursera Foundations of Cybersecurity certification
+
 
 
 | Skill     | Link     |
