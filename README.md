@@ -16,5 +16,10 @@ My interest in computers started with an A-level in Computing during College. Si
 | Skill     | Link     |
 |-----------|-----------|
 |  Foundations of Cybersecurity      |  [![Coursera](https://img.shields.io/badge/Coursera-Visit-blue?logo=coursera)](https://coursera.org/share/90c6059b85789bfb446f2581d34110a1)    |
-|      |     |
-|      | 
+  Cisco Packet Tracer Courses  | ![cisco p1](https://github.com/MrChopss/Infopage/assets/165199836/098768bc-5242-497b-a305-2481509c8efa) ![cisco p2](https://github.com/MrChopss/Infopage/assets/165199836/90447beb-73d0-4023-828a-348218631d22) ![cisco p3](https://github.com/MrChopss/Infopage/assets/165199836/7079b055-acb2-4816-b0ee-1c35d5d0f021)
+
+
+  
+                          
+
+
